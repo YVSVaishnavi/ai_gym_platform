@@ -19,21 +19,21 @@ This project aims to develop an AI-powered gym application that helps users trac
    
 2.Install the required packages:
    ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 3.Start the Flask server:
    ```bash
-python app.py
+    python app.py
 
 ### Frontend
 1.Navigate to the frontend directory:
    ```bash
-cd frontend
+    cd frontend
 
 2.Install the required packages (assuming you have Node.js and npm installed):
    ```bash
-npm install
+    npm install
 
 3.Start the React application:
    ```bash
-npm start
+    npm start
