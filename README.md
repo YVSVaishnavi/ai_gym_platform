@@ -17,11 +17,11 @@ This project aims to develop an AI-powered gym application that helps users trac
    ```bash
    cd backend
    
-2.Install the required packages:
+2. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
-3.Start the Flask server:
+3. Start the Flask server:
    ```bash
    python app.py
 
