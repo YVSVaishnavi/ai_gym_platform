@@ -27,14 +27,14 @@ This project aims to develop an AI-powered gym application that helps users trac
 
 ### Frontend
 
-1.Navigate to the frontend directory:
+1. Navigate to the frontend directory:
    ```bash
    cd frontend
 
-2.Install the required packages (assuming you have Node.js and npm installed):
+2. Install the required packages (assuming you have Node.js and npm installed):
    ```bash
    npm install
 
-3.Start the React application:
+3. Start the React application:
    ```bash
    npm start
